@@ -1,0 +1,13 @@
+# Python operational runtime components
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Deep learning dataset artifacts and models
+data/processed/*.csv
+models/*.h5
+
+# Local IDE configuration states
+.vscode/
+.DS_Store
